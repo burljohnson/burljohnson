@@ -1,2 +1,2 @@
 # burljohnson
-Welcome yes
+Welcome to my git page! I am learning Python!
