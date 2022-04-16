@@ -1,2 +1,2 @@
 # burljohnson
-Welcome to my git page! I am learning Python!
+Welcome to my git page! I am learning Python! Lets go!
